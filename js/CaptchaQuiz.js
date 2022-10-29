@@ -6,16 +6,3 @@ export default class CaptchaQuiz{
         this.captcha_quiz_image = captcha_quiz_image
     }
 }
-
-// [
-//     {
-//         captcha_question: "Select Correct talent",
-//         captcha_options: ["Miner", "Spectra", "Baller", "Alien"],
-//         captcha_answer: "Spectra"
-//     },
-//     {
-//         captcha_question: "Select Correct Career",
-//         captcha_options: ["Miner", "Spectra", "Baller", "Alien"],
-//         captcha_answer: "Baller"
-//     }
-// ]
